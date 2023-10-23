@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+*{
+    font: italic bolder 'work sans' , sans-serif;
+    
+}
+
+body {
+    background-image: linear-gradient(270deg, #ffa163 0, #ffaa53 8.33%, #ffb243 16.67%, #ffbb34 25%, #ffc326 33.33%, #ffca19 41.67%, #f8d110 50%, #e6d712 58.33%, #d3dd1d 66.67%, #bee22b 75%, #a8e73b 83.33%, #90ea4c 91.67%, #74ee5e 100%);
+}

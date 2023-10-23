@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+
+
+
+*{ 
+    font: italic bolder 'work sans' , sans-serif;
+    
+}
+
+body {
+    background-image: linear-gradient(to right,#1bc7a7, #265264, #1b2283);
+}
+
+body {
+    background-color: rgb(255, 246, 246);
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(rgb(34, 82, 75), rgb(43, 85, 102), rgb(40, 56, 100), alpha);
+    width: auto;
+    padding: 10px;
+    box-shadow: 9px 1px 80px rgba(0, 0, 0, 0.973);
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-shadow: #17423a;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    text-shadow: #17423a;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    text-shadow: #17423a;
+}
+
+p {
+    color: white;
+    text-align: center;
+    text-shadow: #17423a;
+}
+
+div {
+    text-align: center;
+    text-shadow: #17423a;
+}
+
+a {
+    color: white;
+    text-align: center;
+    text-shadow: #17423a;
+    margin: 10px;
+    border-radius: ;
+}
